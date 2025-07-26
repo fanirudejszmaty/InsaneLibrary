@@ -9,6 +9,7 @@
   "tintColor" : "004bc4",
   "featuredApps" : [
     "com.google.ios.youtube"
+    "com.giants.fs"
   ],
   "apps" : [
     {
@@ -28,11 +29,39 @@
         "https://i.imgur.com/tZ2yvOY.jpeg",
         "https://i.imgur.com/ayNc4BB.jpeg"
       ],
-      "version" : "20.25.4",
-      "versionDate" : "2025-06-24",
+      "version" : "20.29.3",
+      "versionDate" : "2025-07-26",
       "downloadURL" : "https://github.com/fanirudejszmaty/insaneslib/releases/download/Alpha/27457478ef541308c2c487ca622b4f73a1c8ec02.ipa",
-      "versionDescription" : "• YouTube updated to v20.25.4\n• uYou Enhanced updated to v5.1",
-      "size" : 106000000,
+      "versionDescription" : "• YouTube updated to v20.29.3\n• uYou Enhanced updated to v5.2.B2",
+      "size" : 110000000,
+      "versions" : [
+        {
+          "version" : "20.25.4",
+          "date" : "2025-06-24",
+          "localizedDescription" : "• YouTube updated to v20.25.4",
+          "downloadURL" : "https://github.com/fanirudejszmaty/insaneslib/releases/download/Alpha/uYouEnhanced.ipa",
+          "size" : 128000000
+        }],
+      "beta" : false
+    },
+
+    {
+      "name" : "Farming Simulator 20",
+      "bundleIdentifier" : "com.giants.fs",
+      "developerName" : "Giants Software",
+      "subtitle" : "LS20",
+      "localizedDescription" : "FS20",
+      "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/03/3d/bd/033dbd6d-b521-8cac-567a-21d165c7fe05/AppIcon-1x_U007emarketing-0-10-0-85-220.png/230x0w.webp",
+      "tintColor" : "f90505",
+      "category" : "Games",
+      "screenshotURLs" : [
+
+      ],
+      "version" : "1.1.13",
+      "versionDate" : "2025-06-24",
+      "downloadURL" : "https://github.com/fanirudejszmaty/InsaneLibrary/releases/download/Alpha/933dda95a5b3c205f1b0f3604235c8bf1b6412ac.ipa",
+      "versionDescription" : "• Added some small meta data changes",
+      "size" : 569000000,
       "beta" : false
     }
   ],
