@@ -8,8 +8,7 @@
   "website" : "youtube.com",
   "tintColor" : "004bc4",
   "featuredApps" : [
-    "com.google.ios.youtube",
-    "com.giants.fs"
+    "com.google.ios.youtube"
   ],
   "apps" : [
     {
