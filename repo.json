@@ -65,16 +65,5 @@
       "beta" : false
     }
   ],
-  "news" : [
-    {
-      "title" : "YouTube Updated!",
-      "identifier" : "youtube-updated",
-      "caption" : "YouTube has been updated to the latest version! Click here for more info",
-      "date" : "2025-06-24",
-      "tintColor" : "af0001",
-      "imageURL" : "https://i.imgur.com/W7zL04X.jpeg",
-      "appID" : "com.google.ios.youtube",
-      "notify" : true
-    }
-  ]
+  
 }
