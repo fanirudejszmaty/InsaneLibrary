@@ -15,7 +15,7 @@
     {
       "name" : "YouTube",
       "bundleIdentifier" : "com.google.ios.youtube",
-      "developerName" : "Insane",
+      "developerName" : "Google",
       "subtitle" : "The uYou Enhanced Tweak for YouTube.",
       "localizedDescription" : "Tweak preferences can be found in the YouTube Settings\n\nFeatures:\n\n• Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n• Copy video, comment, and post information\n• Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n• Player settings: Gestures, default quality, preferred audio track\n• Save, Load and Restore settings. Clear cache once or automatically on app startup\n• Built-in SponsorBlock\n• And much, much more",
       "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/20/9d/11209d81-738d-a845-627d-45af3c280b83/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/230x0w.webp",
@@ -35,7 +35,6 @@
       "size" : 110000000,
       "beta" : false
     },
-
     {
       "name" : "Farming Simulator 20",
       "bundleIdentifier" : "com.giants-software.fs20",
